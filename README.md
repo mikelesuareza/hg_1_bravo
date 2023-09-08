@@ -1,4 +1,4 @@
-*Alfa: Brian Delgado "darkskyn"             
+*Alfa: Brian Delgado "darkskyn"
 
 *Bravo: Miguel Suarez "Miguelsuareza"
 
@@ -7,5 +7,4 @@
 *Delta: Luis Herrera "Lijose59"
 
 *Echo: Misael Gamardo "Misaelgmd"
-
 
